@@ -1,0 +1,178 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "bangladesh",
+      "description": "bangladesh",
+      "category": [
+        "dhaka",
+        "bangladesh",
+        "india"
+      ],
+      "author": "saiful"
+    },
+    {
+      "userId": 1,
+      "title": "sss",
+      "description": "ssss",
+      "category": [
+        {
+          "text": "sss",
+          "color": "purple"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "title": "saiful",
+      "author": "saiful",
+      "description": "eeee",
+      "category": [
+        {
+          "text": "dddd",
+          "color": "green"
+        },
+        {
+          "text": "eeee",
+          "color": "purple"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "title": "eeee",
+      "author": "saiful",
+      "description": "eeee",
+      "category": [
+        {
+          "text": "ff",
+          "color": "purple"
+        },
+        {
+          "text": "ddd",
+          "color": "green"
+        },
+        {
+          "text": "eee",
+          "color": "indigo"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "title": "eeee",
+      "author": "saiful",
+      "description": "eeeeee",
+      "category": [
+        {
+          "text": "fff",
+          "color": "green"
+        },
+        {
+          "text": "gg",
+          "color": "purple"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "userId": 1,
+      "title": "ssss",
+      "author": "saiful",
+      "img": "https://via.placeholder.com/600/92c952",
+      "description": "ssss",
+      "category": [
+        {
+          "userId": 1,
+          "text": "ddddd",
+          "color": "indigo",
+          "id": 3
+        },
+        {
+          "userId": 1,
+          "text": "dddd",
+          "color": "purple",
+          "id": 2
+        },
+        {
+          "userId": 1,
+          "text": "ggg",
+          "color": "green"
+        },
+        {
+          "userId": 1,
+          "text": "ddd",
+          "color": "green",
+          "id": 1
+        }
+      ],
+      "id": 6
+    }
+  ],
+  "category": [
+    {
+      "userId": 1,
+      "text": "ddd",
+      "color": "green",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "text": "dddd",
+      "color": "purple",
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "text": "ddddd",
+      "color": "indigo",
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "text": "ff",
+      "color": "green",
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "text": "ggg",
+      "color": "green",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "email": "saiful@gmail.com",
+      "password": "$2a$10$U4pn5QncpPosMWqGZhwuDuse6pGQ.gyYtyZadSAJqV.Ok64TWQZxe",
+      "name": "saiful",
+      "id": 1
+    },
+    {
+      "email": "sa@gmail.com",
+      "password": "$2a$10$OKUiHV27zeVKohGhS.MIxOndh9i2AOaREdG2BWtWlXvxeA6.0uMEG",
+      "name": "saiful",
+      "id": 2
+    },
+    {
+      "email": "saiful@admin.com",
+      "password": "$2a$10$lqYoVgSeKSWO9qlIUuPiV.uEjyvNnQmmXC1eLVEUnhMYE3ar6J/O.",
+      "name": "saiful",
+      "id": 3
+    }
+  ]
+}
